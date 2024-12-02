@@ -9,7 +9,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+
 ## Задания
+
 **В этом репозитории вы найдете следующие задания:**
 
 1.   *Практика 1*
